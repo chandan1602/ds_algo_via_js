@@ -1,4 +1,3 @@
-// Code Contributed by GeeksForGeeks
 class ArrayClass {
     constructor() {
         this.length = 0;

@@ -1,6 +1,8 @@
 # Order of Execution of Learning
 
-__1. ArrSetObjMap.js__
-__2. array.js__
-__3. linkedList.js__
+1. ArrSetObjMap.js
+
+2. array.js
+
+3. linkedList.js
 
